@@ -72,7 +72,7 @@ export const projects: Project[] = [
     },
     featured: true,
     systemDesign: true,
-    image: "/portfolio/projects/fleetlink.png",
+    image: "/projects/fleetlink.png",
     link: "https://fleetlink.cipcloud.net/"
   },
   {
@@ -127,7 +127,7 @@ export const projects: Project[] = [
       th: 'ออกแบบระบบให้ประมวลผลแบบ Background Task และใช้ NoSQL (MongoDB) สำหรับเก็บข้อมูล Log',
       en: 'Implemented background task processing and utilized MongoDB for efficient log storage.'
     },
-    image: "/portfolio/projects/terminus.png",
+    image: "/projects/terminus.png",
     link: "https://app-v2.terminusfleet.com/"
   },
   {
@@ -180,7 +180,7 @@ export const projects: Project[] = [
       th: 'ใช้ Vue.js ร่วมกับการทำ Optimize Performance และโครงสร้าง HTML ที่ถูกต้องตามหลัก SEO',
       en: 'Leveraged Vue.js with performance optimizations and semantic HTML for superior SEO ranking.'
     },
-    image: "/portfolio/projects/diamond.png",
+    image: "/projects/diamond.png",
     link: "https://www.dbp.co.th/th"
   },
   {
@@ -235,7 +235,7 @@ export const projects: Project[] = [
       th: 'ออกแบบระบบให้มี Caching และการ Re-sync ข้อมูลอัตโนมัติเมื่อกลับมาออนไลน์',
       en: 'Designed with local caching and automated background re-syncing upon connectivity recovery.'
     },
-    image: "/portfolio/projects/cloudtime.png",
+    image: "/projects/cloudtime.png",
     link: "https://passenger.cloudtime.cloud/auth/login"
   }
 ];
